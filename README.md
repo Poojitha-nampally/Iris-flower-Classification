@@ -1,4 +1,4 @@
-# TASK 3: IRIS Flower Classification
+# IRIS Flower Classification
 
 ## Overview
 - This data science project focuses on classifying the Iris flower species using machine learning models.
